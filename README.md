@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/pedropbazzo/treinaweb-java-fundamentos/master/console.png)
+
 # TreinaWeb: curso "Java - Fundamentos para Web"
 
 Repositório com o código produzido durante o curso "Java - Fundamentos para Web".
